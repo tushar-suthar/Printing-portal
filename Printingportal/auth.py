@@ -100,5 +100,4 @@ def store_user(request, user):
     'name': user['displayName'],
     'email': user['mail'],
     'roll_number': user['surname'],
-    'shopkeeper_status': True if(user['mail'] == 'abc@gmail.com') else False
   }
