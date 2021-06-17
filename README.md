@@ -35,5 +35,8 @@ The email of shopkeeper need to be defined at function store_user in authhelper 
 
 Also the email of shopkeeper need to be defined at place order function in views file under task folder 
 
+## Screenshots
+
+###Signin page
 
 
